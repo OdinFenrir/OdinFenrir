@@ -78,7 +78,8 @@ development experience.
 ## GitHub History
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OdinFenrir&theme=github_dark" alt="GitHub profile summary" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinFenrir&theme=github_dark" alt="GitHub stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinFenrir&theme=github_dark" alt="Top languages by repo" />
 </p>
 
 <p align="center">
