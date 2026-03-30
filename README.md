@@ -4,9 +4,9 @@
 
 ### Software Developer in Training
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-odinfenrir.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://odinfenrir.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-OdinFenrir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OdinFenrir)
-[![Email](https://img.shields.io/badge/Email-LDomingues.uk%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:LDomingues.uk@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-odinfenrir.github.io-5865f2?style=flat-square&logo=googlechrome&logoColor=white)](https://odinfenrir.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-OdinFenrir-2b2f36?style=flat-square&logo=github&logoColor=white)](https://github.com/OdinFenrir)
+[![Email](https://img.shields.io/badge/Email-LDomingues.uk%40gmail.com-d14b4b?style=flat-square&logo=gmail&logoColor=white)](mailto:LDomingues.uk@gmail.com)
 
 </div>
 
@@ -14,17 +14,10 @@
 
 ## About
 
-<table>
-  <tr>
-    <td>
-      <p>I am building full-stack skills through planned course work and self-taught software projects. This profile highlights the public work I am using to grow practical development experience.</p>
-      <ul>
-        <li>Portfolio site: <a href="https://odinfenrir.github.io">odinfenrir.github.io</a></li>
-        <li>Current public work: <a href="https://github.com/OdinFenrir/OdinFenrir.github.io">OdinFenrir.github.io</a>, <a href="https://github.com/OdinFenrir/mini-rl-survival">mini-rl-survival</a>, <a href="https://github.com/OdinFenrir/snake-rl-research-lab">snake-rl-research-lab</a>, <a href="https://github.com/OdinFenrir/GameofLife">GameofLife</a>, <a href="https://github.com/OdinFenrir/AntiSlack">AntiSlack</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+I am building full-stack skills through planned course work and self-taught software projects. This profile highlights the public work I am using to grow practical development experience.
+
+- Portfolio site: [odinfenrir.github.io](https://odinfenrir.github.io)
+- Current public work: [OdinFenrir.github.io](https://github.com/OdinFenrir/OdinFenrir.github.io), [mini-rl-survival](https://github.com/OdinFenrir/mini-rl-survival), [snake-rl-research-lab](https://github.com/OdinFenrir/snake-rl-research-lab), [GameofLife](https://github.com/OdinFenrir/GameofLife), [AntiSlack](https://github.com/OdinFenrir/AntiSlack)
 
 ## Tech Stack
 
@@ -88,61 +81,27 @@
 
 ## GitHub History
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinFenrir&theme=github_dark" alt="GitHub stats" />
-    </td>
-    <td width="50%">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinFenrir&theme=github_dark" alt="Top languages by repo" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img width="100%" src="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake-dark.svg" alt="Contribution snake" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinFenrir&theme=transparent" alt="GitHub stats" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinFenrir&theme=transparent" alt="Top languages by repo" />
+</p>
+
+<p align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
 
 ## Focus Areas
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li><strong>Course programme:</strong> HTML, CSS, JavaScript, Python, PHP, SQL, React, Bootstrap, APIs, Java, GitHub, C#</li>
-        <li><strong>Self-taught work:</strong> reinforcement learning, PyTorch, CUDA inference, model quantization, RAG basics, C++ / SFML, C# / .NET, SQLite</li>
-        <li><strong>Workflow:</strong> Codex CLI / IDE, Git, testing, debugging, documentation, automation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Course programme:** HTML, CSS, JavaScript, Python, PHP, SQL, React, Bootstrap, APIs, Java, GitHub, C#
+- **Self-taught work:** reinforcement learning, PyTorch, CUDA inference, model quantization, RAG basics, C++ / SFML, C# / .NET, SQLite
+- **Workflow:** Codex CLI / IDE, Git, testing, debugging, documentation, automation
 
 ## Featured Public Projects
 
-<table>
-  <tr>
-    <th align="left">Project</th>
-    <th align="left">Focus</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/OdinFenrir/OdinFenrir.github.io">OdinFenrir.github.io</a></td>
-    <td>Portfolio website for course work and self-taught projects</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/OdinFenrir/snake-rl-research-lab">snake-rl-research-lab</a></td>
-    <td>Reinforcement learning research, reporting, dashboards</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/OdinFenrir/mini-rl-survival">mini-rl-survival</a></td>
-    <td>RL gameplay experiments and level completion</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/OdinFenrir/GameofLife">GameofLife</a></td>
-    <td>C++ / SFML simulation and systems experimentation</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/OdinFenrir/AntiSlack">AntiSlack</a></td>
-    <td>Productivity tooling, desktop UI, CLI, SQLite, AI-assisted workflow</td>
-  </tr>
-</table>
+| Project | Focus |
+|---|---|
+| [OdinFenrir.github.io](https://github.com/OdinFenrir/OdinFenrir.github.io) | Portfolio website for course work and self-taught projects |
+| [snake-rl-research-lab](https://github.com/OdinFenrir/snake-rl-research-lab) | Reinforcement learning research, reporting, dashboards |
+| [mini-rl-survival](https://github.com/OdinFenrir/mini-rl-survival) | RL gameplay experiments and level completion |
+| [GameofLife](https://github.com/OdinFenrir/GameofLife) | C++ / SFML simulation and systems experimentation |
+| [AntiSlack](https://github.com/OdinFenrir/AntiSlack) | Productivity tooling, desktop UI, CLI, SQLite, AI-assisted workflow |
