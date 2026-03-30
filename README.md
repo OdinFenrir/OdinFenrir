@@ -84,7 +84,7 @@ development experience.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OdinFenrir&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake.svg" alt="Contribution snake" />
 </p>
 
 ## Focus Areas
