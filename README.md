@@ -2,7 +2,7 @@
 
 # Leandro Domingues
 
-### Full-Stack Developer in Training
+### Software Developer in Training
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-odinfenrir.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://odinfenrir.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-OdinFenrir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OdinFenrir)
