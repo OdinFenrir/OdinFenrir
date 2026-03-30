@@ -1,7 +1,7 @@
 <div align="center">
   <div style="max-width: 820px; padding: 0 24px; text-align: center;">
     <p style="margin: 0; font-size: 0.85rem; letter-spacing: 0.4rem; color: #94a3b8;">OdinFenrir / README.md</p>
-    <h1 style="margin: 0.5rem 0 0; font-size: 3rem; text-transform: uppercase; letter-spacing: 0.2rem;">Leandro Domingues</h1>
+    <h1 style="margin: 0.5rem 0 0; font-size: 3.5rem; font-weight: 700; letter-spacing: 0.1rem; text-transform: none; text-shadow: 0 0 10px rgba(255,255,255,0.2);">Leandro Domingues</h1>
     <p style="margin: 0.25rem 0 1rem; font-size: 1.1rem; color: #cbd5f5;">Software Developer in Training</p>
     <p style="margin: 0;">
       <a href="https://odinfenrir.github.io" style="margin: 0 6px;"><img src="https://img.shields.io/badge/Portfolio-odinfenrir.github.io-5865f2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
