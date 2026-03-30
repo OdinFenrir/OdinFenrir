@@ -25,8 +25,8 @@ development experience.
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=OdinFenrir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdinFenrir&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinFenrir&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinFenrir&theme=github_dark" alt="Top languages" />
 
 </div>
 
