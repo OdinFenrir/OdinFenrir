@@ -78,13 +78,25 @@ development experience.
 
 ## GitHub History
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake.svg" />
-  </picture>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinFenrir&theme=github_dark" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinFenrir&theme=github_dark" alt="Top languages by repo" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake.svg" />
+        <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ## Focus Areas
 
