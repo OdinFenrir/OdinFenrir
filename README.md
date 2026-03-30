@@ -1,13 +1,14 @@
 <div align="center">
-
-# Leandro Domingues
-
-### Software Developer in Training
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-odinfenrir.github.io-5865f2?style=flat-square&logo=googlechrome&logoColor=white)](https://odinfenrir.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-OdinFenrir-2b2f36?style=flat-square&logo=github&logoColor=white)](https://github.com/OdinFenrir)
-[![Email](https://img.shields.io/badge/Email-LDomingues.uk%40gmail.com-d14b4b?style=flat-square&logo=gmail&logoColor=white)](mailto:LDomingues.uk@gmail.com)
-
+  <div style="max-width: 820px; padding: 0 24px; text-align: center;">
+    <p style="margin: 0; font-size: 0.85rem; letter-spacing: 0.4rem; color: #94a3b8;">OdinFenrir / README.md</p>
+    <h1 style="margin: 0.5rem 0 0; font-size: 3rem; text-transform: uppercase; letter-spacing: 0.2rem;">Leandro Domingues</h1>
+    <p style="margin: 0.25rem 0 1rem; font-size: 1.1rem; color: #cbd5f5;">Software Developer in Training</p>
+    <div>
+      [![Portfolio](https://img.shields.io/badge/Portfolio-odinfenrir.github.io-5865f2?style=flat-square&logo=googlechrome&logoColor=white)](https://odinfenrir.github.io)
+      [![GitHub](https://img.shields.io/badge/GitHub-OdinFenrir-2b2f36?style=flat-square&logo=github&logoColor=white)](https://github.com/OdinFenrir)
+      [![Email](https://img.shields.io/badge/Email-LDomingues.uk%40gmail.com-d14b4b?style=flat-square&logo=gmail&logoColor=white)](mailto:LDomingues.uk@gmail.com)
+    </div>
+  </div>
 </div>
 
 ---
