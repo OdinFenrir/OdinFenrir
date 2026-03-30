@@ -64,6 +64,7 @@ development experience.
   <img src="https://skillicons.dev/icons?i=vscode" width="18" height="18" alt="VS Code" /> VS Code&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=visualstudio" width="18" height="18" alt="Visual Studio" /> Visual Studio&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=powershell" width="18" height="18" alt="PowerShell" /> PowerShell&nbsp;&nbsp;
+  Codex CLI / IDE&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=python" width="18" height="18" alt="Python" /> Python&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=cpp" width="18" height="18" alt="C++" /> C++
 </p>
@@ -90,7 +91,7 @@ development experience.
 
 - **Course programme:** HTML, CSS, JavaScript, Python, PHP, SQL, React, Bootstrap, APIs, Java, GitHub, C#
 - **Self-taught work:** reinforcement learning, PyTorch, CUDA inference, model quantization, RAG basics, C++ / SFML, C# / .NET, SQLite
-- **Workflow:** Git, testing, debugging, documentation, automation
+- **Workflow:** Codex CLI / IDE, Git, testing, debugging, documentation, automation
 
 ## Featured Public Projects
 
