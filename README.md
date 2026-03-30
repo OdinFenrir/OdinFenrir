@@ -26,26 +26,59 @@ development experience.
 ### Course Programme
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,jquery,mysql,react,bootstrap,java,github,cs" alt="Course programme skills" />
+  <img src="https://skillicons.dev/icons?i=html" width="18" height="18" alt="HTML" /> HTML&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="18" height="18" alt="CSS" /> CSS&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="18" height="18" alt="JavaScript" /> JavaScript&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="18" height="18" alt="Python" /> Python&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" width="18" height="18" alt="PHP" /> PHP&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=jquery" width="18" height="18" alt="jQuery" /> jQuery
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" width="18" height="18" alt="SQL" /> SQL&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="18" height="18" alt="React" /> React&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="18" height="18" alt="Bootstrap" /> Bootstrap&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" width="18" height="18" alt="Java" /> Java&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="18" height="18" alt="GitHub" /> GitHub&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" width="18" height="18" alt="C#" /> C#
 </p>
 
 ### Self-Taught Projects
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cmake,cs,dotnet,py,pytorch,sqlite,git,github,githubactions" alt="Self-taught project skills" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="18" height="18" alt="C++" /> C++&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cmake" width="18" height="18" alt="CMake" /> CMake&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" width="18" height="18" alt="C#" /> C#&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dotnet" width="18" height="18" alt=".NET" /> .NET&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="18" height="18" alt="Python" /> Python
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch" width="18" height="18" alt="PyTorch" /> PyTorch&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite" width="18" height="18" alt="SQLite" /> SQLite&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="Git" /> Git&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="18" height="18" alt="GitHub" /> GitHub
 </p>
 
 ### Tools I Use in Public Projects
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,powershell,python,cpp,cs,react,bootstrap,git,github" alt="Tools used in public projects" />
+  <img src="https://skillicons.dev/icons?i=vscode" width="18" height="18" alt="VS Code" /> VS Code&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="18" height="18" alt="Visual Studio" /> Visual Studio&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=powershell" width="18" height="18" alt="PowerShell" /> PowerShell&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" width="18" height="18" alt="Python" /> Python&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="18" height="18" alt="C++" /> C++
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=cs" width="18" height="18" alt="C#" /> C#&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="18" height="18" alt="React" /> React&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="18" height="18" alt="Bootstrap" /> Bootstrap&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="Git" /> Git&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="18" height="18" alt="GitHub" /> GitHub
 </p>
 
 ## GitHub History
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinFenrir&theme=github_dark" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinFenrir&theme=github_dark" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OdinFenrir&theme=github_dark" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
