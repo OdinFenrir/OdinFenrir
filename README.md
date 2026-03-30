@@ -14,9 +14,9 @@
 
 ## About
 
-I am building a portfolio that separates planned course work from self-taught project work.
-My current focus is full-stack development, practical project delivery, and technical depth
-through independent software experiments.
+I am building full-stack skills through planned course work and self-taught software
+projects. This profile highlights the public work I am using to grow practical
+development experience.
 
 - Portfolio site: [odinfenrir.github.io](https://odinfenrir.github.io)
 - Current public work: [OdinFenrir.github.io](https://github.com/OdinFenrir/OdinFenrir.github.io), [mini-rl-survival](https://github.com/OdinFenrir/mini-rl-survival), [snake-rl-research-lab](https://github.com/OdinFenrir/snake-rl-research-lab), [GameofLife](https://github.com/OdinFenrir/GameofLife), [AntiSlack](https://github.com/OdinFenrir/AntiSlack)
@@ -25,14 +25,8 @@ through independent software experiments.
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OdinFenrir&theme=react-dark&hide_border=true&area=true)](https://github.com/OdinFenrir)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake.svg" />
-</picture>
-
 ## Focus Areas
 
 - Course programme: HTML, CSS, JavaScript, Python, PHP, SQL, React, Bootstrap, APIs, Java, GitHub, C#
 - Self-taught work: reinforcement learning, PyTorch, CUDA inference, model quantization, RAG basics, C++ / SFML, C# / .NET, SQLite
-- Workflow: Git, GitHub Actions, testing, debugging, documentation, automation
+- Workflow: Git, testing, debugging, documentation, automation
