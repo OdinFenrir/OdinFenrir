@@ -19,7 +19,8 @@ jobs:
         with:
           github_user_name: OdinFenrir
           outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=purple&color_dots=#000000,#000000,#000000,#000000,#000000
+            dist/github-snake.svg?palette=github-dark&color_snake=purple&color_dots=#0b0f0c,#0b2214,#0d3b22,#13914d,#26e26d
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=purple&color_dots=#0b0f0c,#0b2214,#0d3b22,#13914d,#26e26d
 
       - name: Publish snake assets
         uses: crazy-max/ghaction-github-pages@v5
