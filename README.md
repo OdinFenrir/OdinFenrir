@@ -1,101 +1,85 @@
-<div align="center">
-  <div style="max-width: 820px; padding: 0 24px; text-align: center;">
-    <p style="margin: 0; font-size: 0.85rem; letter-spacing: 0.4rem; color: #94a3b8;">OdinFenrir / README.md</p>
-    <h1 style="margin: 0.5rem 0 0; font-size: 3.5rem; font-weight: 700; letter-spacing: 0.1rem; text-transform: none; text-shadow: 0 0 10px rgba(255,255,255,0.2);">Leandro Domingues</h1>
-    <p style="margin: 0.25rem 0 1rem; font-size: 1.1rem; color: #cbd5f5;">Software Developer in Training</p>
-    <p style="margin: 0;">
-      <a href="https://odinfenrir.github.io" style="margin: 0 6px;"><img src="https://img.shields.io/badge/Portfolio-odinfenrir.github.io-5865f2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
-      <a href="https://github.com/OdinFenrir" style="margin: 0 6px;"><img src="https://img.shields.io/badge/GitHub-OdinFenrir-2b2f36?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-      <a href="mailto:LDomingues.uk@gmail.com" style="margin: 0 6px;"><img src="https://img.shields.io/badge/Email-LDomingues.uk%40gmail.com-d14b4b?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-    </p>
-  </div>
-</div>
+# Leandro Domingues
 
----
+**Software Developer in Training**
+
+[Portfolio](https://odinfenrir.github.io) • [GitHub](https://github.com/OdinFenrir) • [Email](mailto:LDomingues.uk@gmail.com)
 
 ## About
 
-I am building full-stack skills through planned course work and self-taught software projects. This profile highlights the public work I am using to grow practical development experience.
+I am building practical software skills through a mix of planned course work and self-taught projects. This profile highlights the public work I use to grow real development experience, not just course exercises.
 
-- Portfolio site: [odinfenrir.github.io](https://odinfenrir.github.io)
-- Current public work: [OdinFenrir.github.io](https://github.com/OdinFenrir/OdinFenrir.github.io), [mini-rl-survival](https://github.com/OdinFenrir/mini-rl-survival), [snake-rl-research-lab](https://github.com/OdinFenrir/snake-rl-research-lab), [GameofLife](https://github.com/OdinFenrir/GameofLife), [AntiSlack](https://github.com/OdinFenrir/AntiSlack)
+My strongest interests right now are:
+- full-stack foundations
+- Python tooling and automation
+- C++ and C# project work
+- reinforcement learning and applied ML experiments
+- documentation, debugging, and validation-heavy workflows
 
-## Tech Stack
+## Current Focus
 
-### Course Programme
+- Building a strong foundation in web and software development through structured course study
+- Shipping self-taught projects that force real problem solving, iteration, and cleanup
+- Improving how I present technical work so it reads clearly to both developers and non-technical users
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="18" height="18" alt="HTML" /> HTML&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="18" height="18" alt="CSS" /> CSS&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" width="18" height="18" alt="JavaScript" /> JavaScript&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" width="18" height="18" alt="Python" /> Python&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" width="18" height="18" alt="PHP" /> PHP&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=jquery" width="18" height="18" alt="jQuery" /> jQuery
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="18" height="18" alt="SQL" /> SQL&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="18" height="18" alt="React" /> React&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="18" height="18" alt="Bootstrap" /> Bootstrap&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=java" width="18" height="18" alt="Java" /> Java&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="18" height="18" alt="GitHub" /> GitHub&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" width="18" height="18" alt="C#" /> C#
-</p>
+## Tech I Use
 
-### Self-Taught Projects
+### Course programme
+- HTML
+- CSS
+- JavaScript
+- Python
+- PHP
+- SQL
+- React
+- Bootstrap
+- Java
+- GitHub
+- C#
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp" width="18" height="18" alt="C++" /> C++&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cmake" width="18" height="18" alt="CMake" /> CMake&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cs" width="18" height="18" alt="C#" /> C#&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dotnet" width="18" height="18" alt=".NET" /> .NET&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=py" width="18" height="18" alt="Python" /> Python
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch" width="18" height="18" alt="PyTorch" /> PyTorch&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sqlite" width="18" height="18" alt="SQLite" /> SQLite&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="Git" /> Git&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="18" height="18" alt="GitHub" /> GitHub
-</p>
+### Self-taught work
+- Python
+- C++
+- C# / .NET
+- SQLite
+- PyTorch
+- Reinforcement learning workflows
+- Git / GitHub
 
-### Tools I Use in Public Projects
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" width="18" height="18" alt="VS Code" /> VS Code&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=visualstudio" width="18" height="18" alt="Visual Studio" /> Visual Studio&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=powershell" width="18" height="18" alt="PowerShell" /> PowerShell&nbsp;&nbsp;
-  Codex CLI / IDE&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=python" width="18" height="18" alt="Python" /> Python&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="18" height="18" alt="C++" /> C++
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=cs" width="18" height="18" alt="C#" /> C#&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" width="18" height="18" alt="React" /> React&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="18" height="18" alt="Bootstrap" /> Bootstrap&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" width="18" height="18" alt="Git" /> Git&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="18" height="18" alt="GitHub" /> GitHub
-</p>
-
-## GitHub History
-
-<p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OdinFenrir&theme=transparent" alt="GitHub stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OdinFenrir&theme=transparent" alt="Top languages by repo" />
-</p>
-
-<p align="center">
-  <img width="92%" src="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake-dark.svg" alt="Contribution snake" />
-</p>
-
-## Focus Areas
-
-- **Course programme:** HTML, CSS, JavaScript, Python, PHP, SQL, React, Bootstrap, APIs, Java, GitHub, C#
-- **Self-taught work:** reinforcement learning, PyTorch, CUDA inference, model quantization, RAG basics, C++ / SFML, C# / .NET, SQLite
-- **Workflow:** Codex CLI / IDE, Git, testing, debugging, documentation, automation
+### Workflow
+- VS Code
+- Visual Studio
+- PowerShell
+- Codex CLI / IDE
+- testing and validation
+- documentation and iteration
 
 ## Featured Public Projects
 
-- **[OdinFenrir.github.io](https://github.com/OdinFenrir/OdinFenrir.github.io):** Portfolio website for course work and self-taught projects
-- **[snake-rl-research-lab](https://github.com/OdinFenrir/snake-rl-research-lab):** Reinforcement learning research, reporting, dashboards
-- **[mini-rl-survival](https://github.com/OdinFenrir/mini-rl-survival):** RL gameplay experiments and level completion
-- **[GameofLife](https://github.com/OdinFenrir/GameofLife):** C++ / SFML simulation and systems experimentation
-- **[AntiSlack](https://github.com/OdinFenrir/AntiSlack):** Productivity tooling, desktop UI, CLI, SQLite, AI-assisted workflow
+- [OdinFenrir.github.io](https://github.com/OdinFenrir/OdinFenrir.github.io)  
+  Portfolio website for course work and self-taught projects.
+
+- [snake-rl-research-lab](https://github.com/OdinFenrir/snake-rl-research-lab)  
+  Reinforcement learning experiments, dashboards, and reporting.
+
+- [mini-rl-survival](https://github.com/OdinFenrir/mini-rl-survival)  
+  RL gameplay experiments and training-focused iteration.
+
+- [GameofLife](https://github.com/OdinFenrir/GameofLife)  
+  C++ / SFML simulation and systems experimentation.
+
+- [AntiSlack](https://github.com/OdinFenrir/AntiSlack)  
+  Productivity tooling with desktop UI, CLI workflows, and local persistence.
+
+## What I Try To Bring To Projects
+
+- clear structure
+- practical problem solving
+- evidence before assumptions
+- documentation that explains what is actually happening
+- willingness to refactor when the first version is not good enough
+
+## Portfolio
+
+If you want the cleaner presentation layer, use the portfolio site:
+
+**[odinfenrir.github.io](https://odinfenrir.github.io)**
