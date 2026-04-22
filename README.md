@@ -2,7 +2,9 @@
 
 **Software Developer in Training**
 
-[Portfolio](https://odinfenrir.github.io) • [GitHub](https://github.com/OdinFenrir) • [Email](mailto:LDomingues.uk@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-odinfenrir.github.io-6366f1?style=flat-square&logo=googlechrome&logoColor=white)](https://odinfenrir.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-OdinFenrir-2b2f36?style=flat-square&logo=github&logoColor=white)](https://github.com/OdinFenrir)
+[![Email](https://img.shields.io/badge/Email-LDomingues.uk%40gmail.com-d14b4b?style=flat-square&logo=gmail&logoColor=white)](mailto:LDomingues.uk@gmail.com)
 
 ## About
 
@@ -13,7 +15,7 @@ My strongest interests right now are:
 - Python tooling and automation
 - C++ and C# project work
 - reinforcement learning and applied ML experiments
-- documentation, debugging, and validation-heavy workflows
+- debugging, validation, and documentation-heavy workflows
 
 ## Current Focus
 
@@ -42,7 +44,7 @@ My strongest interests right now are:
 - C# / .NET
 - SQLite
 - PyTorch
-- Reinforcement learning workflows
+- reinforcement learning workflows
 - Git / GitHub
 
 ### Workflow
@@ -83,3 +85,9 @@ My strongest interests right now are:
 If you want the cleaner presentation layer, use the portfolio site:
 
 **[odinfenrir.github.io](https://odinfenrir.github.io)**
+
+## GitHub Activity
+
+<p align="center">
+  <img width="92%" src="https://raw.githubusercontent.com/OdinFenrir/OdinFenrir/output/github-snake-dark.svg" alt="Contribution snake" />
+</p>
